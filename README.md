@@ -37,7 +37,7 @@ AfetRota, internet bağlantısı olmadan harita render etme ve rota hesaplama s�
 
 ## English
 
-# 📍 AfetRota - Offline Emergency Navigation / Çevrim Dışı Acil Durum Navigasyonu
+# 📍 AfetRota - Offline Emergency Navigation
 
 ### 📑 Overview
 **AfetRota** is an offline Android navigation application designed to provide life-saving routing during natural disasters and emergency situations where cellular networks are down or internet access is unavailable.
