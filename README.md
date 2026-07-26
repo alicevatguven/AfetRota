@@ -1,5 +1,3 @@
-# 📍 AfetRota - Offline Emergency Navigation / Çevrim Dışı Acil Durum Navigasyonu
-
 [English](#english) | [Türkçe](#türkçe)
 
 # 📍 AfetRota - Çevrim Dışı Acil Durum Navigasyonu
@@ -38,6 +36,8 @@ AfetRota, internet bağlantısı olmadan harita render etme ve rota hesaplama s�
 2. **Graf Tabanlı Rotalama:** `GraphHopper` önceden işlenmiş yol ağ grafiklerini yerel hafızadan okuyarak milisaniyeler içinde A noktası ile B noktası arasındaki en kısa/güvenli rotayı çıkarır.
 
 ## English
+
+# 📍 AfetRota - Offline Emergency Navigation / Çevrim Dışı Acil Durum Navigasyonu
 
 ### 📑 Overview
 **AfetRota** is an offline Android navigation application designed to provide life-saving routing during natural disasters and emergency situations where cellular networks are down or internet access is unavailable.
